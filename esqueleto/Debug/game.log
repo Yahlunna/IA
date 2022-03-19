@@ -1,5 +1,3 @@
 ﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
-  SeekSteering.cpp
-  game.vcxproj -> C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Debug\game.exe
-  ..\moai\3rdparty\glut-3.7.6-bin\glut32.dll
-  1 File(s) copied
+  character.cpp
+C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\character.cpp(1,1): error C2859: C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\Debug\vc142.idb is not the idb file that was used when this precompiled header was created, recreate the precompiled header.

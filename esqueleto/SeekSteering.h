@@ -6,9 +6,9 @@ class SeekSteering
 	Character* character;
 	USVec2D target;
 
-	USVec2D desiredVel;
+	USVec2D desiredDirection;
 	USVec2D requiredAcc;
-	USVec2D maxAcc;
+	USVec2D Acc;
 
 
 public:
@@ -20,7 +20,7 @@ public:
 
 
 	//Character, target location. Returns acc.
-	USVec2D GetSteering(float max_acceleration, bool isTriggered);
+	USVec2D GetSteering(float max_acceleration);
 
 	void DrawDebug() const;
 

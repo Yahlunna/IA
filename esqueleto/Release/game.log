@@ -1,0 +1,16 @@
+﻿cl : command line warning D9035: option 'Zc:forScope-' has been deprecated and will be removed in a future release
+  character.cpp
+moaicore.lib(truetype.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(truetype.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+moaicore.lib(sfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(sfnt.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+moaicore.lib(raster.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(raster.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+moaicore.lib(psmodule.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(psmodule.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+moaicore.lib(pshinter.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(pshinter.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+moaicore.lib(smooth.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(smooth.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+moaicore.lib(ftsystem.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(ftsystem.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+moaicore.lib(ftinit.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(ftinit.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+moaicore.lib(ftbase.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(ftbase.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+moaicore.lib(cff.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(cff.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+moaicore.lib(autofit.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'moaicore.lib(autofit.obj)' or at 'C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\freetype.pdb'; linking object as if no debug info
+  game.vcxproj -> C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\bin\Win32\Release\game.exe
+  ..\moai\3rdparty\glut-3.7.6-bin\glut32.dll
+  1 File(s) copied

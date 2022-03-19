@@ -3,7 +3,9 @@
 
 #include <moaicore/MOAIEntity2D.h>
 #include <params.h>
+
 class SeekSteering;
+class ArriveSteering;
 
 class Character: public MOAIEntity2D
 {
@@ -30,7 +32,12 @@ private:
 	
 	Params mParams;
 
-	SeekSteering* seekSteering;
+	SeekSteering* seekSteering;	// P1 ) seek;
+	ArriveSteering* arriveSteering; // P2) arrive;
+
+
+
+
 	USVec2D target;
 
 
