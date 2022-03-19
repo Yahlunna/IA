@@ -24,7 +24,7 @@ entity:setProp(prop, layer)
 -- Start the character (allow calls to OnUpdate)
 entity:start()
 entity:setLoc(0, 0)
-entity:setRot(0)
+entity:setRot(40)
 entity:setLinearVel(10, 0)
 --entity:setAngularVel(30)
 

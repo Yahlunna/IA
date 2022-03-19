@@ -6,6 +6,7 @@
 
 class SeekSteering;
 class ArriveSteering;
+class AlignSteering;
 
 class Character: public MOAIEntity2D
 {
@@ -34,6 +35,7 @@ private:
 
 	SeekSteering* seekSteering;	// P1 ) seek;
 	ArriveSteering* arriveSteering; // P2) arrive;
+	AlignSteering* alignSteering;
 
 
 

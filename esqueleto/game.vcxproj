@@ -124,6 +124,7 @@
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AlignSteering.cpp" />
     <ClCompile Include="ArriveSteering.cpp" />
     <ClCompile Include="character.cpp" />
     <ClCompile Include="gameConfig.cpp" />
@@ -138,6 +139,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AlignSteering.h" />
     <ClInclude Include="ArriveSteering.h" />
     <ClInclude Include="character.h" />
     <ClInclude Include="gameConfig.h" />

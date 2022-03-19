@@ -19,6 +19,7 @@
     <ClCompile Include="params.cpp" />
     <ClCompile Include="SeekSteering.cpp" />
     <ClCompile Include="ArriveSteering.cpp" />
+    <ClCompile Include="AlignSteering.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="character.h" />
@@ -36,6 +37,7 @@
     <ClInclude Include="params.h" />
     <ClInclude Include="SeekSteering.h" />
     <ClInclude Include="ArriveSteering.h" />
+    <ClInclude Include="AlignSteering.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="host">

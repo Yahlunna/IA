@@ -1,3 +1,15 @@
 ﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SeekSteering.cpp
+C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\SeekSteering.cpp(1,1): error C2859: C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\Debug\vc142.idb is not the idb file that was used when this precompiled header was created, recreate the precompiled header.
+  params.cpp
+C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\params.cpp(1,1): error C2859: C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\Debug\vc142.idb is not the idb file that was used when this precompiled header was created, recreate the precompiled header.
+  gameConfig.cpp
+C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\gameConfig.cpp(1,1): error C2859: C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\Debug\vc142.idb is not the idb file that was used when this precompiled header was created, recreate the precompiled header.
   character.cpp
 C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\character.cpp(1,1): error C2859: C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\Debug\vc142.idb is not the idb file that was used when this precompiled header was created, recreate the precompiled header.
+  ArriveSteering.cpp
+C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\ArriveSteering.cpp(1,1): error C2859: C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\Debug\vc142.idb is not the idb file that was used when this precompiled header was created, recreate the precompiled header.
+  AlignSteering.cpp
+C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\AlignSteering.cpp(1,1): error C2859: C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\Debug\vc142.idb is not the idb file that was used when this precompiled header was created, recreate the precompiled header.
+C:\Users\jomon\Documents\Utad\IA\practicas\esqueleto\AlignSteering.cpp(63,69): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
