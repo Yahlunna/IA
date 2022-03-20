@@ -7,6 +7,7 @@
 class SeekSteering;
 class ArriveSteering;
 class AlignSteering;
+class AlignToMovement;
 
 class Character: public MOAIEntity2D
 {
@@ -34,9 +35,9 @@ private:
 	Params mParams;
 
 	SeekSteering* seekSteering;	// P1 ) seek;
-	ArriveSteering* arriveSteering; // P2) arrive;
-	AlignSteering* alignSteering;
-
+	ArriveSteering* arriveSteering; // P2) arrive; P4) arrive
+	AlignSteering* alignSteering; // P3 align
+	AlignToMovement* alignToMovement; // P4 align delegate
 
 
 

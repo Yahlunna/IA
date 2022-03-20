@@ -8,8 +8,8 @@
 
 		<max_angular_velocity value="45"/>
 		<max_angular_acceleration value="90"/>
-		<angular_dest_radius value="40"/>
 		<angular_arrive_radius value="80"/>
+		<angular_dest_radius value="40"/>
 		<targetRotation value="0"/>
 	</params>
 </root>
